@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C9A96E&height=200&section=header&text=UI/UX%20Design%20Portfolio&fontSize=42&fontColor=0e0e0f&fontAlignY=38&desc=Suriya%20%E2%80%94%20Creative%20Designer%20%26%20Developer&descAlignY=58&descFontColor=0e0e0f&descFontSize=16"/>
-
 <!-- BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
